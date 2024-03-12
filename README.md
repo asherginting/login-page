@@ -54,7 +54,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Q2
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39787908/311940533-2ff1f9a4-1386-47ff-b350-7a289bdce351.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240312T042859Z&X-Amz-Expires=300&X-Amz-Signature=8c9af873dd7e5541a9a1c44310128f86957875be08e754c9c24de058f2443fa5&X-Amz-SignedHeaders=host&actor_id=39787908&key_id=0&repo_id=612005972" alt="test2"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39787908/311942888-6cd3c470-ca68-4b09-bd6b-fcbe216eded3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240312T044121Z&X-Amz-Expires=300&X-Amz-Signature=3f0ae34a2f5df53d5da51dc45692f4950efea7ba37de51002fbb7e48236a4627&X-Amz-SignedHeaders=host&actor_id=39787908&key_id=0&repo_id=770742810" alt="test2"/>
 
 ## Q3
 
