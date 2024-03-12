@@ -44,3 +44,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# Technical Test
+
+## Q1
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39787908/311941813-06ec4cff-2c6b-410a-89e0-4ca78a0dbc72.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240312T043453Z&X-Amz-Expires=300&X-Amz-Signature=2424882158930e01d3bf0f8acfa2c3530e6eddd33156876c9f6782f77999b083&X-Amz-SignedHeaders=host&actor_id=39787908&key_id=0&repo_id=612005972" alt="test1"/>
+
+## Q2
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39787908/311940533-2ff1f9a4-1386-47ff-b350-7a289bdce351.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240312T042859Z&X-Amz-Expires=300&X-Amz-Signature=8c9af873dd7e5541a9a1c44310128f86957875be08e754c9c24de058f2443fa5&X-Amz-SignedHeaders=host&actor_id=39787908&key_id=0&repo_id=612005972" alt="test2"/>
+
+## Q3
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39787908/311941478-54400ec3-d2f8-4504-a30d-de533e88dc52.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240312T043309Z&X-Amz-Expires=300&X-Amz-Signature=b361704b721b0686a8dcc6b79059d635ff4ead069a49c90c5a4062601bcc438c&X-Amz-SignedHeaders=host&actor_id=39787908&key_id=0&repo_id=612005972" alt="test3"/>
+

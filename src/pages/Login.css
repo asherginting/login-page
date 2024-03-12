@@ -1,0 +1,67 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+  }
+  
+  .login-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+    position: relative; 
+  }
+  
+  .form-control {
+    padding: 12px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    width: 300px;
+    outline: none;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 20px;
+  }
+  
+  .btn-login {
+    padding: 12px 30px;
+    border-radius: 25px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    outline: none;
+  }
+  
+  .btn-login:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-login:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .password-toggle {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #666;
+    font-size: 12px; /* Mengatur ukuran font */
+  }
+  
+  .password-toggle:hover {
+    color: #333;
+  }
+  
+  
